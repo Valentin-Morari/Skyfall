@@ -1,0 +1,1 @@
+Skyfall is a game I've been working on for 2 years, the development of which roughly ended 2 years ago. I've come to learn very many things but mostly that you shouldn't be overly ambitious with your first serious project!
