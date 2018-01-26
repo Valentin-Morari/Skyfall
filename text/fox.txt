@@ -1,0 +1,32 @@
+Press X, dummy.
+Hey there, green horn!
+I'm fox, the one in charge of teaching you.
+To move around press
+W / A / S / D
+That there is the skull enemy.
+Nasty little buggers.
+To enter combat press
+ENTER
+Go on, don't be shy.
+Very good.
+This is a turn based game
+But you only have a few seconds to act. 
+Think carefully. Plan your moves.
+You can still walk, but afterwards comes a delay
+If you hold SPACE and walk, you will hop 2 spaces!
+But it has an even higher delay.
+Learning to mix them both will get you far, literally.
+Also, there's icons for each possible action below
+They're usefull for knowing when the delay is over
+PROTIP: Your delay is only reduced during YOUR turns.
+Next up is attacking!
+Press the arrow keys to attack.
+You're a warrior, so of course you need to get close.
+Hold SPACE to do a class-specific STRONG attack.
+Once again, the STRONG attack has a bigger delay
+But also, better side-effects.
+For example, you're a warrior right now.
+His strong attack doesn't only dish out huge damage
+But also he can charge from up to 3 spaces away!
++ It locks the target so they can't move for some time.
+
